@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Balinge</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-<img align="right" alt="coding"width="400" src="![image](https://github.com/sumitbalinge123/sumitbalinge123/assets/157221293/18cbefad-0de5-4d02-80bd-8bb33462d742)
+ src="![image](https://github.com/sumitbalinge123/sumitbalinge123/assets/157221293/18cbefad-0de5-4d02-80bd-8bb33462d742)
 "/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbalinge123&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbalinge123" /> </p>
